@@ -1,4 +1,10 @@
+Conceptos:
+
 How cars work: Car Aerodynamics [En Línea] < https://www.howacarworks.com/technology/car-aerodynamics> [Consulta: 7/3/24] 
+
+The Science behind car design: How aerodynamics affects performance [En Línea] <https://www.nationwidevehiclecontracts.co.uk/blog/the-science-behind-car-design-how-aerodynamics-affects-performance> [Consulta: 7/3/24] 
+
+Analítica:
 
 Mesh optimization for ground Vehicle Aerodynamics. [En Línea] < https://akademiabaru.com/submit/index.php/cfdl/article/view/3317/2348 > [Consulta: 7/1/24]
 
