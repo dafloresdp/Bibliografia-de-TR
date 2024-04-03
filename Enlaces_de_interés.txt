@@ -1,10 +1,12 @@
 Conceptos:
 
-How cars work: Car Aerodynamics [En Línea] < https://www.howacarworks.com/technology/car-aerodynamics> [Consulta: 7/3/24] 
+How cars work: Car Aerodynamics [En Línea] < https://www.howacarworks.com/technology/car-aerodynamics> [Consulta: 1/4/24] 
 
-The Science behind car design: How aerodynamics affects performance [En Línea] <https://www.nationwidevehiclecontracts.co.uk/blog/the-science-behind-car-design-how-aerodynamics-affects-performance> [Consulta: 7/3/24] 
+The Science behind car design: How aerodynamics affects performance [En Línea] <https://www.nationwidevehiclecontracts.co.uk/blog/the-science-behind-car-design-how-aerodynamics-affects-performance> [Consulta: 2/4/24] 
 
-¿Cómo funciona un motor de combustión interna? [Página web] <https://www.motorpasion.com/tecnologia/como-funciona-motor-combustion-interna>
+¿Cómo funciona un motor de combustión interna? [Página web] <https://www.motorpasion.com/tecnologia/como-funciona-motor-combustion-interna> [2/4/24]
+
+Cilindrada de un coche [Página Web] <https://www.autocasion.com/diccionario/cilindrada-de-un-coche#:~:text=Para%20calcular%20la%20cilindrada%20debemos,es%20decir%2C%20por%20la%20carrera.> [Consultado: 2/4/24]
 
 Analítica:
 
