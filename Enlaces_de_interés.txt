@@ -10,6 +10,11 @@ Cilindrada de un coche [Página Web] <https://www.autocasion.com/diccionario/cil
 
 Analítica:
 
+Anatomy of a NASCAR [Página web] <https://www.washingtonpost.com/wpsrv/sports/autorace/longterm/nascar99/lesson/rflaps.htm#:~:text=Anatomy%20of%20a%20NASCAR&text=One%20of%20the%20most%20effective,the%20air%20pushes%20them%20up.> [Consultado: 7/4/24]
+
+Why NASCAR uses roof flaps [Página Web] <https://www.carthrottle.com/post/wom7z7p> [Consulta: 7/4/24]
+
+Muslanne's corner: Why did the Mercedes CLR Flip at Le Mans? [Página Web/Blog] <https://www.mulsannescorner.com/techarticle3.html> [Consulta: 7/4/24]
 Mesh optimization for ground Vehicle Aerodynamics. [En Línea] < https://akademiabaru.com/submit/index.php/cfdl/article/view/3317/2348 > [Consulta: 7/1/24]
 
 “HUB” Vehicle aerodynamics and optimizations [Nucleo de páginas web / En línea] < https://scholar.google.es/scholar?q=vehicle+aerodynamics+and+optimization&hl=en&as_sdt=0&as_vis=1&oi=scholart > [Consulta: 7/3/24]
