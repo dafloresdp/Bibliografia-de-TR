@@ -8,6 +8,8 @@ The Science behind car design: How aerodynamics affects performance [En Línea] 
 
 Cilindrada de un coche [Página Web] <https://www.autocasion.com/diccionario/cilindrada-de-un-coche#:~:text=Para%20calcular%20la%20cilindrada%20debemos,es%20decir%2C%20por%20la%20carrera.> [Consultado: 2/4/24]
 
+La aerodinámica y la eficiencia: Un vistazo a la historia [Página Web] <https://www.diariomotor.com/tecmovia/2013/03/31/aerodinamica-y-eficiencia/> [Consultado:10/4/24]
+
 Analítica:
 
 Mesh optimization for ground Vehicle Aerodynamics. [En Línea] < https://akademiabaru.com/submit/index.php/cfdl/article/view/3317/2348 > [Consulta: 7/1/24]
